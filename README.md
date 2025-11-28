@@ -238,12 +238,14 @@ API 명세 도구로 Spring REST Docs를 채택함으로써 테스트 코드 작
         <li>상품 시스템</li>
         <li>거래 시스템</li>
         <li>결제 시스템</li>
+        <li>회원 시스템</li>
         <li>모니터링 시스템</li>
       </ul>
     </td>
     <td style="text-align: left;">
       <ul>
         <li>채팅 시스템</li>
+        <li>인증/인가 시스템</li>
         <li>거래 시스템</li>
         <li>리뷰 시스템</li>
         <li>신고 시스템</li>
@@ -255,6 +257,7 @@ API 명세 도구로 Spring REST Docs를 채택함으로써 테스트 코드 작
         <li>인증/인가 시스템</li>
         <li>회원 시스템</li>
         <li>상품 시스템</li>
+        <li>모니터링 시스템</li>
         <li>알림 시스템</li>
       </ul>
     </td>
